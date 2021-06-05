@@ -1,0 +1,2 @@
+{% load static %}
+<img src="{% static 'catalog/images/basic-diango.png' %}" alt="UML diagram" style="width:555px;height:540px;">
